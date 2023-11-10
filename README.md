@@ -12,9 +12,9 @@ To use this application, users can click on *Get Started* on the home page, this
 
 ### Link
 
-[Link to deployed application](https://camparooni.github.io/weather-dashboard/)
+[Link to deployed application](https://swift-note-35733492d36b.herokuapp.com/)
 
-![weather-dashboard](./weather-dashboard.PNG)
+![weather-dashboard](./note-taker.gif)
 
 ## Credits
 
